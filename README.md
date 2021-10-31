@@ -1,8 +1,7 @@
 # major-project-btech
 Major Project for 18103020 and 18103077 for BTech CSE at NITJ
 
-#Abstract
-Abstract
+# Abstract
 
 Vehicle Monitoring and Surveillance (VMS) systems aim to reinstate security and authorization access and permissions in a smart way through the use of image recognition and automated set of tools to manage vehicle traffic within residential or business premises in an efficient way. VMS uses Machine learning algorithms for image detection and recognition with a complete backend framework that connects to a server and multiple service endpoints using 4G LTE and is tailored to suit the applications in an institute complex, specifically National Institute of Technology Jalandhar. The main objective of this project is to automate the security mechanism to reduce the workload of security personnels on duty. An important point to note is that the VMS system does not provide an all round self dependent surveillance and monitoring system but instead supplements the already existing security force with next generation technologies to boost the security and increase the efficiency of the checkpoint located at the entries and exits of the institute premises.
 
